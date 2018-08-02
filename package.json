@@ -1,6 +1,6 @@
 {
   "name": "function.this",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Makes context oriented functions easily usable via `|>` pipeline operator.",
   "browser": "index.js",
   "main": "index.js",
