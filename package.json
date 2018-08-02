@@ -1,0 +1,20 @@
+{
+  "name": "function.this",
+  "version": "0.0.0",
+  "description": "Makes context oriented functions easily usable via `|>` pipeline operator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "istanbul cover test.js"
+  },
+  "keywords": [
+    "pipe",
+    "this",
+    "context",
+    "OOP"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "devDependencies": {
+    "istanbul": "^0.4.5"
+  }
+}
